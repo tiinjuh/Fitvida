@@ -1,0 +1,143 @@
+Variant Price,Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,,,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Included / Brazil,Price / Brazil,Compare At Price / Brazil,Included / International,Price / International,Compare At Price / International,Status,Meta custom.composicao2 (rich_text_field),Meta custom.modo_de_usar (rich_text_field),Meta custom.pesquisa (rich_text_field),SEO Title,SEO Description
+162.9,glutamina-creatina-energy-shake,Glutamina + Creatina Energy Shake,"<p>Glutamina + Creatina Energy Shake oferece uma combina&ccedil;&atilde;o poderosa de ingredientes para melhorar o desempenho f&iacute;sico e promover o desenvolvimento muscular. Sua f&oacute;rmula exclusiva contendo D-Ribose, Creatina, Glutamina e Taurina trabalha em sinergia para fornecer energia, promover a recupera&ccedil;&atilde;o muscular e prevenir a fadiga durante e ap&oacute;s os treinos intensos.</p>
+
+<h2>Benef&iacute;cios do Suplemento Performance Plus:</h2>
+<ul>
+  <li>Promove o aumento da resist&ecirc;ncia f&iacute;sica.</li>
+  <li>Auxilia no aumento da pot&ecirc;ncia e resist&ecirc;ncia muscular.</li>
+  <li>Acelera a velocidade de regenera&ccedil;&atilde;o dos m&uacute;sculos.</li>
+  <li>Previne a perda de massa muscular.</li>
+  <li>Reduz a fadiga durante os treinos.</li>
+</ul>
+
+<h2>Composi&ccedil;&atilde;o:</h2>
+<p>D-Ribose: 9g<br>
+Creatina: 5g<br>
+Glutamina: 3,5g<br>
+Taurina: 1,5g<br>
+Sabor baunilha<br>
+Base shake (farinha de milho e arroz): 30g</p>
+<p>Pote com 450g</p>
+
+<h2>Modo de Usar:</h2>
+<p>Adicionar 15g em 200ml de leite ou &aacute;gua antes e ap&oacute;s o treino.</p>",FitViidaLife,,,"Forca, Pre-treino, Recuperacao, Resistencia",TRUE,Title,Default Title,,,,,,0,,0,deny,manual,,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0603/4718/7253/files/Glutamina_Creatina_Energy_Shake.jpg?v=1717449026,1,,FALSE,,,,,,,,,,,,,,,kg,,,TRUE,,,TRUE,,,active,"{
+  ""type"": ""root"",
+  ""children"": [
+    {
+      ""listType"": ""unordered"",
+      ""type"": ""list"",
+      ""children"": [
+        {
+          ""type"": ""list-item"",
+          ""children"": [
+            {
+              ""type"": ""text"",
+              ""value"": ""D-Ribose: 9g""
+            }
+          ]
+        },
+        {
+          ""type"": ""list-item"",
+          ""children"": [
+            {
+              ""type"": ""text"",
+              ""value"": ""Creatina: 5g""
+            }
+          ]
+        },
+        {
+          ""type"": ""list-item"",
+          ""children"": [
+            {
+              ""type"": ""text"",
+              ""value"": ""Glutamina: 3,5g""
+            }
+          ]
+        },
+        {
+          ""type"": ""list-item"",
+          ""children"": [
+            {
+              ""type"": ""text"",
+              ""value"": ""Taurina: 1,5g""
+            }
+          ]
+        },
+        {
+          ""type"": ""list-item"",
+          ""children"": [
+            {
+              ""type"": ""text"",
+              ""value"": ""Sabor baunilha""
+            }
+          ]
+        },
+        {
+          ""type"": ""list-item"",
+          ""children"": [
+            {
+              ""type"": ""text"",
+              ""value"": ""Base shake (farinha de milho e arroz): 30g""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      ""type"": ""paragraph"",
+      ""children"": [
+        {
+          ""type"": ""text"",
+          ""value"": ""Pote com 450g""
+        }
+      ]
+    }
+  ]
+}","{
+  ""type"": ""root"",
+  ""children"": [
+    {
+      ""listType"": ""unordered"",
+      ""type"": ""list"",
+      ""children"": [
+        {
+          ""type"": ""list-item"",
+          ""children"": [
+            {
+              ""type"": ""text"",
+              ""value"": ""Adicionar 15g em 200ml de leite ou água antes e após o treino.""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      ""type"": ""paragraph"",
+      ""children"": [
+        {
+          ""type"": ""text"",
+          ""value"": """"
+        }
+      ]
+    }
+  ]
+}","<strong>D-Ribose</strong>
+<p>A D-Ribose é um tipo de açúcar que desempenha um papel essencial na produção de energia celular (ATP) e pode ajudar na recuperação muscular após exercícios intensos. Estudos mostram que a suplementação com D-Ribose pode melhorar a função cardíaca e a recuperação de energia muscular. (Seifert et al., 2017)</p>
+
+<strong>Creatina</strong>
+<p>A Creatina é um suplemento amplamente estudado que pode aumentar a força muscular, o desempenho em exercícios de alta intensidade e ajudar na recuperação muscular. Estudos mostram que a suplementação com creatina pode melhorar o desempenho em atividades de curta duração e alta intensidade, além de aumentar a massa muscular. (Buford et al., 2007)</p>
+
+<strong>Glutamina</strong>
+<p>A Glutamina é um aminoácido importante para a função imunológica e a saúde intestinal. Estudos indicam que pode ajudar na recuperação após exercícios intensos e reduzir a dor muscular. A suplementação com glutamina pode ser benéfica para atletas, especialmente durante períodos de treinamento intenso. (Cruzat et al., 2014)</p>
+
+<strong>Taurina</strong>
+<p>A Taurina é um aminoácido que pode ajudar na hidratação celular e no desempenho de exercícios de alta intensidade, além de ter propriedades antioxidantes. A suplementação de taurina pode regular a produção de ROS mitocondrial e prevenir danos ao DNA em músculos sobrecarregados durante o exercício. A duração e a dosagem da administração de taurina são fatores-chave para otimizar seus benefícios na prevenção do estresse oxidativo e danos musculares durante exercícios intensos. (Thirupathi et al., 2020)</p>
+
+<p><strong>Recursos Científicos:</strong></p>
+<ul>
+  <li>Seifert, J.G., Harmon, K.K., De Souza, M.J., & Byrne, B.J. (2017). ""The effects of ribose supplementation on performance during repeated high-intensity cycle exercise."" Journal of the International Society of Sports Nutrition, 14(1), p.47.</li>
+  <li>Buford, T.W., et al. (2007). ""International Society of Sports Nutrition position stand: creatine supplementation and exercise."" Journal of the International Society of Sports Nutrition, 4(1), p.6.</li>
+  <li>Cruzat, V., et al. (2014). ""Amino Acid supplementation and impact on immune function in the context of exercise."" Journal of the International Society of Sports Nutrition, 11(1), p.61.</li>
+  <li>Thirupathi, A., Pinho, R.A., Baker, J.S., István, B., & Gu, Y. (2020). ""Taurine Reverses Oxidative Damages and Restores the Muscle Function in Overuse of Exercised Muscle."" Frontiers in Physiology, 11, 582449.</li>
+</ul>
+",Glutamina + Creatina: Shake Energético para Impulsionar seus Treinos,Potencialize seus treinos com Glutamina + Creatina Energy Shake. A combinação perfeita de creatina glutamina para máximo desempenho. Experimente agora!
